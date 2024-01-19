@@ -27,6 +27,7 @@ As any successfull data science project should, this project includes different 
   - Handling missing values by filling with mean
   - Outlier detection using IQR method and handling outliers
   - Handling string values by converting into datetime and timedelta objects
+ 
 ## Exploratory Data Analysis
 - Feature engineering
 	- Deriving new features from existing features such as stress_level, day_of_week
@@ -43,5 +44,16 @@ As any successfull data science project should, this project includes different 
     	- using Pearson's Correlation Coefficient method
      	- using Decision Tree model
       		- train and test data  	   	 	  	  		
+
 ## Hypothesis Testing and Statistical Analysis
+In this final stage, I put forward some hypothesis that I inferred from the EDA stage and prove or disprove them using statistical analysis.
+- Sleep duration ~ Sleep quality correlation
+- Active calorie burned ~ Sleep score correlation
+- Step count ~ Sleep start time correlation
+- Stress level ~ Sleep quality
+
+Techniques used in this stage:
+- Pearson correlation test
+- Chi-square test
+- Calculating p-value and deducting hypothesis validity 
 
