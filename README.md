@@ -48,9 +48,9 @@ As any successfull data science project should, this project includes different 
      	- Using Decision Tree model
       		- train and test data  	   	 	  	  		
 
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/78f6cf94-8941-4a0c-a0a3-18116b5f4d48" width="300">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/78f6cf94-8941-4a0c-a0a3-18116b5f4d48" width="200">
 
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/483c92ea-a383-4eb8-9584-578886ab46ee" width="300">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/483c92ea-a383-4eb8-9584-578886ab46ee" width="200">
 
 <img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/e6c85c86-86c6-4058-b90b-71982cc8a97e" width="300">
 <img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/a1818ef8-247d-460b-bde0-fb44450e9581" width="300">
@@ -68,11 +68,11 @@ Techniques used in this stage:
 - Chi-square test
 - Calculating p-value and deducting hypothesis validity
 
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/1c203224-2d02-4617-8e5d-b0d4b91d8c14" width="300">
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/7c14146c-63f9-41fd-9176-1970cd893f1a" width="300">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/1c203224-2d02-4617-8e5d-b0d4b91d8c14" width="200">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/7c14146c-63f9-41fd-9176-1970cd893f1a" width="200">
 
 # What I learned from my OWN data
-I had many assumptions, hypothesis taken for granted that are related to my health data and daily health patterns. Most importantly, I learned that it is highly likely that they do not align with what the data says.
+I had many assumptions, hypotheses taken for granted that are related to my health data and daily health patterns. Most importantly, I learned that it is highly likely that they do not align with what the data says.
 
 Here, are some hypothesis tested in this project, related to my sleep and physical activity data:
 
@@ -88,8 +88,8 @@ By the statistical analysis performed, the dataset does not provide evidence to 
 ## Hypothesis #4: Daily Stress level and Sleep Quality Correlation
 By applying chi-square test to the categorical features, I have found that stress level and sleep quality are correlated, thus not independent from each other. Finally, a conclusion aligning with my initial assumption made my day. 
 
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/e0ac7893-bc4b-4029-be94-783af1f6a253" width="300">
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/4af43ec8-7da6-4061-a99f-11d45f1e2b70" width="300">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/e0ac7893-bc4b-4029-be94-783af1f6a253" width="200">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/4af43ec8-7da6-4061-a99f-11d45f1e2b70" width="200">
 
 # Limitations and Future Work
 In this project, I have suffered from the lack of a big dataset. In the upcoming years, as my health data grows, I am planning to update my findings by feeding new and bigger accumulated data into my analysis methods and seek any contradiction or support in my initial findings. 
