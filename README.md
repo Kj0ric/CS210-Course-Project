@@ -97,5 +97,6 @@ In this project, I have suffered from the lack of a big dataset. In the upcoming
 
 Also I would like to devise cleaner and more inclusive ways to collect personal data from Garmin's database. The limitation regarding data collection was time consuming and detrimental for the aim of this project.
 
-![image](https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/5d5cdbd2-1a26-45e5-b404-4d8fc1dd2b94)
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/5d5cdbd2-1a26-45e5-b404-4d8fc1dd2b94" width="400">
+
 
