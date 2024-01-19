@@ -49,12 +49,12 @@ As any successfull data science project should, this project includes different 
      	- Using Decision Tree model
       		- train and test data  	   	 	  	  		
 
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/78f6cf94-8941-4a0c-a0a3-18116b5f4d48" width="200">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/78f6cf94-8941-4a0c-a0a3-18116b5f4d48" width="170">
 
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/483c92ea-a383-4eb8-9584-578886ab46ee" width="200">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/483c92ea-a383-4eb8-9584-578886ab46ee" width="170">
 
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/e6c85c86-86c6-4058-b90b-71982cc8a97e" width="300">
-<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/a1818ef8-247d-460b-bde0-fb44450e9581" width="300">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/e6c85c86-86c6-4058-b90b-71982cc8a97e" width="250">
+<img src="https://github.com/Kj0ric/CS210-Course-Project/assets/99014503/a1818ef8-247d-460b-bde0-fb44450e9581" width="250">
 
 
 ## Hypothesis Testing and Statistical Analysis
