@@ -294,7 +294,7 @@ merged_df['start_time'] = pd.to_datetime(merged_df['start_time'])
 merged_df['end_time'] = pd.to_datetime(merged_df['end_time'])
 ```
 
-# 3. Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 ## Feature Engineering
 Derive new features
