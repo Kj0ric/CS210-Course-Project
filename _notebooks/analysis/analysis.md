@@ -306,6 +306,7 @@ Derive new features
 
 
 ```python
+print(merged_df)
 # Feature engineering: New features
 # Active Ratio
 merged_df['active_ratio'] = merged_df['calories_active'] / merged_df['calories']
