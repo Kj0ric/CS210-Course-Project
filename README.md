@@ -19,7 +19,7 @@ I've collected the data required for my project through [GarminDB](https://githu
 # Data Analysis
 ![JupyterPython](/Images/jupyter-python.png)
 
-All analysis scripts that I used are available in [this Jupyter notebook](analysis.md)
+All analysis scripts that I used are available in [this Jupyter notebook](/_notebooks/analysis/analysis.md)
 As any successfull data science project should, this project includes different data analysis stages and techniques to interpret the extracted data. This is a concise walkthrough of the stages and the techniques I've used:
 ## Data Cleaning and Preprocessing
 - Importing the necessary libraries for all of the scripts
