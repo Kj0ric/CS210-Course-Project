@@ -15,7 +15,7 @@ Before starting to work on this project, I knew that wearable technology compani
 
 Scraping Garmin Connect, the companion app for Garmin wearable devices was tricky, which explains the lack of scraping endeavour on the web. It is a dynamic website with rate limiting, IP blocking and authentication protocols that add an extra layer of complexity. Then, I encountered Garmin DB. 
 
-I've collected the data required for my project through [GarminDB](https://github.com/tcgoetz/GarminDB), a collection of python scripts for parsing health data from Garmin Connect, 
+I've collected the data required for my project through [GarminDB](https://github.com/tcgoetz/GarminDB), a collection of python scripts for parsing health data from Garmin Connect. Several terminal commands download your health data in .db format. By using SQLite, I converted .db files into human-readable CSV format, and begin to preprocess my data. 
 
 
 
