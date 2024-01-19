@@ -1,2 +1,21 @@
-title: Harun's Course Project for CS 210
-description: 
+title: Exploring Personal Patterns from Garmin Fitness Data
+description: This is my course project for Introduction to Data Science (CS 210) course in Sabancı University, Turkey
+
+# Motivation 
+As an old user of Mi Bands and current user of Garmin Fenix 6, I have been always fascinated by how smartwatches can collect biological data simultaneously while one's personal live continue. There is no need to participate in a lab experiment to see your valuable biometrics without even risking confidentiality. 
+
+Wearable technology today still requires huge development regarding accurate measurement, and I am determined to continue to extract data from my personal wearable devices and deduce personal data to acknowledge my biological patterns. 
+
+That is why I worked on this project, where I extract and analyze personal sleep and physical activity data with the aim of correlating different features of my dataset. 
+
+# Data Source
+![Garmin Logo](/Images/Garmin-logo.png)
+
+Before starting to work on this project, I knew that wearable technology companies seek to monetize collected personal data of their customers. So, Garmin's API was only accessible to their partner companies. I had to find another way to access my OWN personal data!
+
+Scraping Garmin Connect, the companion app for Garmin wearable devices was tricky, which explains the lack of scraping endeavour on the web. It is a dynamic website with rate limiting, IP blocking and authentication protocols that add an extra layer of complexity. Then, I encountered Garmin DB. 
+
+I've collected the data required for my project through [GarminDB](https://github.com/tcgoetz/GarminDB), a collection of python scripts for parsing health data from Garmin Connect, 
+
+
+
