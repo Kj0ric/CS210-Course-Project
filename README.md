@@ -35,5 +35,13 @@ As any successfull data science project should, this project includes different 
   	- Normalizing the dataset
   	- Distribution of numerical and categorical features
 - Exploring different correlations between features such as
-	-  	
- 
+	-  Stress levels and sleep quality
+ 	-  Stress levels and physical activity
+  		- Label encoding to encode categorical stress level feature
+    -  Sleep features and sleep quality
+    -  Physical activity and sleep quality
+    	- using Pearson's Correlation Coefficient method
+     	- using Decision Tree model
+      		- train and test data  	   	 	  	  		
+## Hypothesis Testing and Statistical Analysis
+
