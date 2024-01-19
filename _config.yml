@@ -1,5 +1,6 @@
 title: Exploring Personal Patterns from Garmin Fitness Data
 description: This is my course project for Introduction to Data Science (CS 210) course in Sabancı University, Turkey
+theme: jekyll-theme-minimal
 
 # Motivation 
 As an old user of Mi Bands and current user of Garmin Fenix 6, I have been always fascinated by how smartwatches can collect biological data simultaneously while one's personal live continue. There is no need to participate in a lab experiment to see your valuable biometrics without even risking confidentiality. 
