@@ -16,3 +16,24 @@ I've collected the data required for my project through [GarminDB](https://githu
 
 # Data Analysis
 All analysis scripts that I used is available in [this Jupyter notebook]()
+As any successfull data science project should, this project includes different data analysis stages and techniques to interpret the extracted data. This is a concise walkthrough of the stages and the techniques I've used:
+## Data Cleaning and Preprocessing
+- Importing the necessary libraries for all of the scripts
+- Reading two CSV files via pandas
+- Preparing the dataset for analysis
+  - Dropping unnecessary columns and rows
+  - Renaming column names into more sensible names
+  - Merging two CSV files into one dataframe 
+  - Handling missing values by filling with mean
+  - Outlier detection using IQR method and handling outliers
+  - Handling string values by converting into datetime and timedelta objects
+## Exploratory Data Analysis
+- Feature engineering
+	- Deriving new features from existing features such as stress_level, day_of_week
+- Displaying global properties of the dataset using .info() and .describe()
+- Exploring the distribution of the features
+  	- Normalizing the dataset
+  	- Distribution of numerical and categorical features
+- Exploring different correlations between features such as
+	-  	
+ 
