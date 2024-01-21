@@ -294,7 +294,7 @@ merged_df['start_time'] = pd.to_datetime(merged_df['start_time'])
 merged_df['end_time'] = pd.to_datetime(merged_df['end_time'])
 ```
 
-# 3. Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 ## Feature Engineering
 Derive new features
@@ -306,6 +306,7 @@ Derive new features
 
 
 ```python
+print(merged_df)
 # Feature engineering: New features
 # Active Ratio
 merged_df['active_ratio'] = merged_df['calories_active'] / merged_df['calories']
